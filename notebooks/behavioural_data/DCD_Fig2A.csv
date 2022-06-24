@@ -1,4 +1,4 @@
-Species,ID,Bin,Perf
+Species,SubjectID,Bin,Performance
 Bumblebee,1,1,0.8
 Bumblebee,1,2,0.4
 Bumblebee,1,3,0.2
